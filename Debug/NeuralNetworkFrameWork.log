@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  matrix.cpp
+e:\onedrive\onedrive - hogeschool west-vlaanderen\documenten\dae\portfolio\neuralnetworkframework\matrix.cpp(203): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\onedrive\onedrive - hogeschool west-vlaanderen\documenten\dae\portfolio\neuralnetworkframework\matrix.cpp(239): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  NeuralNetworkFrameWork.cpp
+e:\onedrive\onedrive - hogeschool west-vlaanderen\documenten\dae\portfolio\neuralnetworkframework\neuralnetworkframework.cpp(115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\onedrive - hogeschool west-vlaanderen\documenten\dae\portfolio\neuralnetworkframework\neuralnetworkframework.cpp(116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\onedrive - hogeschool west-vlaanderen\documenten\dae\portfolio\neuralnetworkframework\neuralnetworkframework.cpp(133): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\onedrive - hogeschool west-vlaanderen\documenten\dae\portfolio\neuralnetworkframework\neuralnetworkframework.cpp(134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\onedrive - hogeschool west-vlaanderen\documenten\dae\portfolio\neuralnetworkframework\neuralnetworkframework.cpp(138): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\onedrive\onedrive - hogeschool west-vlaanderen\documenten\dae\portfolio\neuralnetworkframework\neuralnetworkframework.cpp(139): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  NeuralNetwork.cpp
+  olcConsoleGameEngineGLOOP.cpp
+  olcConsoleGameEngineOOP.cpp
+  Generating Code...
+  NeuralNetworkFrameWork.vcxproj -> E:\Onedrive\OneDrive - Hogeschool West-Vlaanderen\Documenten\DAE\Portfolio\NeuralNetworkFrameWork\Debug\NeuralNetworkFrameWork.exe
